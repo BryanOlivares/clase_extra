@@ -1,0 +1,6 @@
+@import '../../node_modules/antd/dist/antd.css';
+
+.main-content {
+    padding: 0 50px;
+    min-height: calc(100vh - 64px - 70px)
+}
